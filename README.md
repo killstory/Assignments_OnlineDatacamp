@@ -1,2 +1,2 @@
 # Assignments_OnlineDatacamp
-Assignments on Online Datacamp is an online assignments for Data Science bootcamp
+These are online assignments for Online Datacamp for Data Scientist #2
