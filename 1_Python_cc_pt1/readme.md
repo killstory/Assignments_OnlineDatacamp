@@ -1,3 +1,3 @@
-Datacamp#3
-Paramet Moonkaew
+Datacamp#3/n
+Paramet Moonkaew/n
 Python Crash Course part 1
